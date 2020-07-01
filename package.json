@@ -10,7 +10,7 @@
   },
   "repository":{
     "type": "git",
-    "url": "git+https://github.com/priyanshikhetwani/git-test.git"
+    "url": "https://github.com/priyanshikhetwani/git-test.git"
   },
   "author": "Priyanshi Khetwani",
   "license": "ISC",
